@@ -8,11 +8,14 @@
 - :woman_student: Currently Learning:
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,js,figma,git,materialui,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,materialui,react" />
   </a>
 </p>
 - 📫 How to reach me:
-    [My LinkedIn](https://www.linkedin.com/in/claudiaglezgarcia/).
+<a href="(https://www.linkedin.com/in/claudiaglezgarcia/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    
  
 
 
