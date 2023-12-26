@@ -11,10 +11,8 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,materialui,react" />
   </a>
 </p>
-- 📫 How to reach me:
-<a href="(https://www.linkedin.com/in/claudiaglezgarcia/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+- 📫 How to reach me: https://www.linkedin.com/in/claudiaglezgarcia/
+
     
  
 
