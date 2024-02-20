@@ -9,8 +9,7 @@
  <p>:woman_student: Currently Learning:</p>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,materialui" />
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,jest,php,mysql,laravel" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,materialui,tailwind,bootstrap,react,jest,php,mysql,laravel&perline=7" />
   </a>
 </p>
 
