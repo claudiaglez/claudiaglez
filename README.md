@@ -1,7 +1,7 @@
 ### Hi everyone! I’m Claudia 👋
 
 
- <p>🌱 I’m currently learning Full Stack Development in FactoriaF5</p>
+ <p>🌱 Jr. Full Stack Developer </p>
  <p>✈️ From Tourism to IT</p>
  <p>🚀 I truly believe that technologies can change the world, and make it more accessible for everyone</p>
  <p>🧡 I love books, music, puzzles, embroidery and learning new things all the time</p>
