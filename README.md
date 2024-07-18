@@ -6,10 +6,40 @@
  <p>🚀 I truly believe that technologies can change the world, and make it more accessible for everyone</p>
  <p>🧡 I love books, music, puzzles, embroidery and learning new things all the time</p>
  <p>📫 How to reach me:</p>
-   <p> <a href="mailto:claudia.glezg@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev"/> </p>
- <p> <a href="https://www.linkedin.com/in/claudiaglezgarcia/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"/>
-  </p>
- <p>:woman_student: Currently Learning:</p>
+   <p> <a href="mailto:claudia.glezg@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev"/> claudia.glezg@gmail.com</p>
+ <p> <a href="https://www.linkedin.com/in/claudiaglezgarcia/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"/> claudiaglezgarcia  </p>
+  <details>
+  <summary>:woman_student:Tech Stack</summary>
+
+#### Frontend
+
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind," />
+
+#### Backend
+
+ <img src="https://skillicons.dev/icons?i=php,laravel," />
+
+#### Databases
+
+ <img src="https://skillicons.dev/icons?i=mysql," />
+
+#### Testing
+
+ <img src="https://skillicons.dev/icons?i=jest," />
+
+#### APIs
+
+ <img src="https://skillicons.dev/icons?i=postman," />
+
+#### Control Version
+
+ <img src="https://skillicons.dev/icons?i=git,github," />
+
+#### Tools
+
+ <img src="https://skillicons.dev/icons?i=figma,notion" />
+
+</details>
   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,materialui,tailwind,bootstrap,react,nodejs,jest,php,mysql,laravel,postman,&perline=8" />
