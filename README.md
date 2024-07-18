@@ -6,9 +6,10 @@
  <p>🚀 I truly believe that technologies can change the world, and make it more accessible for everyone</p>
  <p>🧡 I love books, music, puzzles, embroidery and learning new things all the time</p>
  <p>📫 How to reach me:</p>
-<a href="[https://skillicons.dev](https://www.linkedin.com/in/claudiaglezgarcia/)">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
+   <p align="center">
+<a href="mailto:claudia.glezg@gmail.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail,)](https://skillicons.dev"/>
+ <a href="https://www.linkedin.com/in/claudiaglezgarcia/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin,)](https://skillicons.dev"/>
+  </p>
  <p>:woman_student: Currently Learning:</p>
   <p align="center">
   <a href="https://skillicons.dev">
