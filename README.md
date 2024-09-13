@@ -35,9 +35,13 @@
 
  <img src="https://skillicons.dev/icons?i=git,github," />
 
+#### Deployment
+
+ <img src="https://skillicons.dev/icons?i=netlify,vercel," />
+
 #### Tools
 
- <img src="https://skillicons.dev/icons?i=figma,notion" />
+ <img src="https://skillicons.dev/icons?i=vscode,figma,notion" />
 
 </details>
 
