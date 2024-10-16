@@ -9,7 +9,7 @@
    <p> <a href="mailto:claudia.glezg@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail,"/> 
  <a href="https://www.linkedin.com/in/claudiaglezgarcia/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin,"/> </p>
   <details>
-<summary>**:woman_student: Tech Stack**</summary>
+<summary>:woman_student: **Tech Stack**</summary>
 
 #### Frontend
 
