@@ -13,7 +13,7 @@
 
 #### Frontend
 
- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,materialui" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,tailwind,materialui" />
 
 #### Backend
 
@@ -21,7 +21,7 @@
 
 #### Databases
 
- <img src="https://skillicons.dev/icons?i=mysql," />
+ <img src="https://skillicons.dev/icons?i=mysql,mongodb," />
 
 #### Testing
 
