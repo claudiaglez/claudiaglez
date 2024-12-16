@@ -13,7 +13,7 @@
 
 #### Frontend
 
- <img src="https://skillicons.dev/icons?i=html,css,javascript,react,angular,bootstrap,tailwind,materialui" />
+ <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,react,angular,bootstrap,tailwind,materialui" />
 
 #### Backend
 
