@@ -17,7 +17,7 @@
 
 #### Backend
 
- <img src="https://skillicons.dev/icons?i=php,laravel,java,springboot" />
+ <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
 
 #### Databases
 
@@ -41,7 +41,7 @@
 
 #### Tools
 
- <img src="https://skillicons.dev/icons?i=vscode,figma,notion" />
+ <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,notion" />
 
 </details>
 
