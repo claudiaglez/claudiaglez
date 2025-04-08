@@ -17,7 +17,7 @@
 
 #### Backend
 
- <img src="https://skillicons.dev/icons?i=php,laravel," />
+ <img src="https://skillicons.dev/icons?i=php,laravel,java,springboot" />
 
 #### Databases
 
