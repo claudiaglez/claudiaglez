@@ -26,23 +26,38 @@
 
 #### Backend
 
- <img src="https://skillicons.dev/icons?i=php,laravel,java,spring" />
+ ![Static Badge](https://img.shields.io/badge/PHP-787CB5?logo=PHP&labelColor=ffffff&color=787CB5)
+ ![Static Badge](https://img.shields.io/badge/Laravel-F05340?logo=Laravel&logoColor=F05340&labelColor=ffffff&color=F05340)
+ ![Static Badge](https://img.shields.io/badge/Java-ED8B00?logo=Java&logoColor=ED8B00&color=ED8B00)
+ ![Static Badge](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=6DB33F&labelColor=ffffff&color=6DB33F)
+ 
 
 #### Databases
 
- <img src="https://skillicons.dev/icons?i=mysql,mongodb," />
+ ![Static Badge](https://img.shields.io/badge/MySQL-00758f?logo=MySQL&logoColor=00758f&labelColor=ffffff&color=00758f)
+ ![Static Badge](https://img.shields.io/badge/MongoDB-4DB33D?logo=MongoDB&logoColor=4DB33D&labelColor=ffffff&color=4DB33D)
+ 
 
 #### Testing
 
- <img src="https://skillicons.dev/icons?i=jest," />
+ ![Static Badge](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=C21325&labelColor=ffffff&color=C21325)
+ ![Static Badge](https://img.shields.io/badge/Jasmine-8A4182?logo=Jasmine&logoColor=8A4182&labelColor=ffffff&color=8A4182)
+ ![Static Badge](https://img.shields.io/badge/PHPUnit-6C9BD1?logoColor=6C9BD1&color=6C9BD1)
+ ![Static Badge](https://img.shields.io/badge/Mockito-B8E986?logoColor=B8E986&color=B8E986)
+
 
 #### APIs
 
- <img src="https://skillicons.dev/icons?i=postman," />
+ ![Static Badge](https://img.shields.io/badge/Postman-EF5B25?logo=Postman&logoColor=EF5B25&labelColor=ffffff&color=EF5B25)
+ ![Static Badge](https://img.shields.io/badge/Swagger-85EA2D?logo=Swagger&logoColor=85EA2D&labelColor=ffffff&color=85EA2D)
+
 
 #### Control Version
 
- <img src="https://skillicons.dev/icons?i=git,github," />
+ ![Static Badge](https://img.shields.io/badge/Git-F1502F?logo=Git&logoColor=F1502F&labelColor=ffffff&color=F1502F)
+ ![Static Badge](https://img.shields.io/badge/GitHub-666666?logo=GitHub&logoColor=666666&labelColor=ffffff&color=666666)
+
+
 
 #### Deployment
 
