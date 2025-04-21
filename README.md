@@ -18,7 +18,7 @@
  ![Static Badge](https://img.shields.io/badge/JavaScript-f0db4f?style=flat&logo=JavaScript&logoColor=%23f0db4f&labelColor=%23323330)
  ![Static Badge](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=TypeScript&logoColor=%23007acc&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=%2361DBFB&labelColor=%236c6a6a)
- ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=Angular&labelColor=%23c3002f)
+ ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=Angular&logoColor=%23c3002f&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Bootstrap-8312FA?style=flat&logo=Bootstrap&logoColor=8312FA&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat&logo=Tailwind%20CSS&logoColor=06b6d4&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Material%20UI-2196f3?style=flat&logo=MUI&logoColor=2196f3&labelColor=%23ffffff)
