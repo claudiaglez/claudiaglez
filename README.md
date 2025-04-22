@@ -19,6 +19,10 @@
  ![Static Badge](https://img.shields.io/badge/TypeScript-007acc?style=flat&logo=TypeScript&logoColor=%23007acc&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/React-61DBFB?style=flat&logo=React&logoColor=%2361DBFB&labelColor=%236c6a6a)
  ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=Angular&logoColor=%23c3002f&labelColor=%23ffffff)
+
+
+ ### Libraries
+
  ![Static Badge](https://img.shields.io/badge/Bootstrap-8312FA?style=flat&logo=Bootstrap&logoColor=8312FA&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat&logo=Tailwind%20CSS&logoColor=06b6d4&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Material%20UI-2196f3?style=flat&logo=MUI&logoColor=2196f3&labelColor=%23ffffff)
@@ -43,6 +47,7 @@
  ![Static Badge](https://img.shields.io/badge/Jest-C21325?logo=Jest&logoColor=C21325&labelColor=ffffff&color=C21325)
  ![Static Badge](https://img.shields.io/badge/Jasmine-8A4182?logo=Jasmine&logoColor=8A4182&labelColor=ffffff&color=8A4182)
  ![Static Badge](https://img.shields.io/badge/PHPUnit-6C9BD1?logoColor=6C9BD1&color=6C9BD1)
+ ![Static Badge](https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=25A162&labelColor=ffffff)
  ![Static Badge](https://img.shields.io/badge/Mockito-B8E986?logoColor=B8E986&color=B8E986)
 
 
@@ -58,14 +63,22 @@
  ![Static Badge](https://img.shields.io/badge/GitHub-666666?logo=GitHub&logoColor=666666&labelColor=ffffff&color=666666)
 
 
-
 #### Deployment
 
- <img src="https://skillicons.dev/icons?i=netlify,vercel," />
+![Static Badge](https://img.shields.io/badge/Netlify-00C7B7?logo=Netlify&logoColor=00C7B7&labelColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Vercel-000000?logo=Vercel&logoColor=000000&labelColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub%20Pages-000000?logo=GitHub%20Pages&logoColor=000000&labelColor=ffffff)
+
 
 #### Tools
 
- <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,notion" />
+ ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logoColor=007ACC)
+ ![Static Badge](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse%20IDE&logoColor=2C2255&labelColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Figma-F24e1e?logo=Figma&logoColor=F24e1e&labelColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=000000&labelColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=0052CC&labelColor=ffffff)
+ ![Static Badge](https://img.shields.io/badge/Trello-0079BF?logo=Trello&logoColor=0079BF&labelColor=ffffff)
+
 
 </details>
 
