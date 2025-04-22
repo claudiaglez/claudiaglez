@@ -21,7 +21,7 @@
  ![Static Badge](https://img.shields.io/badge/Angular-c3002f?style=flat&logo=Angular&logoColor=%23c3002f&labelColor=%23ffffff)
 
 
- ### Libraries
+ #### Frontend Libraries
 
  ![Static Badge](https://img.shields.io/badge/Bootstrap-8312FA?style=flat&logo=Bootstrap&logoColor=8312FA&labelColor=%23ffffff)
  ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat&logo=Tailwind%20CSS&logoColor=06b6d4&labelColor=%23ffffff)
